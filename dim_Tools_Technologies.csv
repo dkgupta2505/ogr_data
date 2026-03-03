@@ -1,0 +1,53 @@
+﻿Technologies_id,Stack_Layer,Tools_Technologies
+T001,Frontend (UI),HTML
+T002,Frontend (UI), CSS
+T003,Frontend (UI), JavaScript
+T004,Frontend (UI), React
+T005,Frontend (UI), Angular
+T006,Frontend (UI), Vue.js
+T007,Backend (Logic),"Python,"
+T008,Backend (Logic),"Java,"
+T009,Backend (Logic),"Node.js,"
+T010,Backend (Logic),".NET,"
+T011,Backend (Logic),Ruby
+T012,Backend (Logic),on
+T013,Backend (Logic),Rails
+T014,Database,"MySQL,"
+T015,Database,"PostgreSQL,"
+T016,Database,"MongoDB,"
+T017,Database,SQL
+T018,Database,"Server,"
+T019,Database,Cassandra
+T020,Data Engineering,Apache
+T021,Data Engineering,"Spark,"
+T022,Data Engineering,"Databricks,"
+T023,Data Engineering,"Hadoop,"
+T024,Data Engineering,Kafka
+T025,Cloud & Infrastructure,"AWS,"
+T026,Cloud & Infrastructure,Microsoft
+T027,Cloud & Infrastructure,"Azure,"
+T028,Cloud & Infrastructure,Google
+T029,Cloud & Infrastructure,"Cloud,"
+T030,Cloud & Infrastructure,IBM
+T031,Cloud & Infrastructure,Cloud
+T032,DevOps & CI/CD,"Jenkins,"
+T033,DevOps & CI/CD,GitHub
+T034,DevOps & CI/CD,"Actions,"
+T035,DevOps & CI/CD,GitLab
+T036,DevOps & CI/CD,"CI,"
+T037,DevOps & CI/CD,"Docker,"
+T038,DevOps & CI/CD,Kubernetes
+T039,Analytics & BI,Power
+T040,Analytics & BI,"BI,"
+T041,Analytics & BI,"Tableau,"
+T042,Analytics & BI,"Looker,"
+T043,Analytics & BI,SAS
+T044,Cybersecurity,"Firewalls,"
+T045,Cybersecurity,SIEM
+T046,Cybersecurity,"tools,"
+T047,Cybersecurity,Identity
+T048,Cybersecurity,Management
+T049,Collaboration,Microsoft
+T050,Collaboration,"Teams,"
+T051,Collaboration,"Slack,"
+T052,Collaboration,Zoom

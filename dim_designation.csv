@@ -1,0 +1,26 @@
+﻿Designation_ID,Categary,Designation
+D001,Executive & Leadership Roles,CEO (Chief Executive Officer)
+D002,Executive & Leadership Roles,CTO (Chief Technology Officer)
+D003,Executive & Leadership Roles,CIO (Chief Information Officer)
+D004,Executive & Leadership Roles,CISO (Chief Information Security Officer)
+D005,Executive & Leadership Roles,VP of Engineering / VP of IT
+D006,Executive & Leadership Roles,Director of Technology / Director of IT Services
+D007,Management & Mid‑Level Roles,Project Manager
+D008,Management & Mid‑Level Roles,Product Manager
+D009,Management & Mid‑Level Roles,Program Manager
+D010,Management & Mid‑Level Roles,Delivery Manager
+D011,Management & Mid‑Level Roles,Team Lead / Technical Lead
+D012,Management & Mid‑Level Roles,Scrum Master / Agile Coach
+D013,Technical & Specialist Roles,"Software Engineer / Developer (Frontend, Backend, Full‑Stack)"
+D014,Technical & Specialist Roles,DevOps Engineer
+D015,Technical & Specialist Roles,Cloud Architect / Cloud Engineer
+D016,Technical & Specialist Roles,Data Engineer / Data Scientist
+D017,Technical & Specialist Roles,AI/ML Engineer
+D018,Technical & Specialist Roles,Cybersecurity Analyst / Security Engineer
+D019,Technical & Specialist Roles,System Administrator / Network Engineer
+D020,Technical & Specialist Roles,Database Administrator (DBA)
+D021,Technical & Specialist Roles,QA Engineer / Test Automation Engineer
+D022,Entry‑Level & Support Roles,IT Support Specialist / Helpdesk Technician
+D023,Entry‑Level & Support Roles,Associate Software Engineer
+D024,Entry‑Level & Support Roles,Junior Developer
+D025,Entry‑Level & Support Roles,"Intern (Software, IT, Data, Security)"
